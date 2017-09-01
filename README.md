@@ -16,4 +16,4 @@
 - npm install to add node_modules
 
 - Simply lauching with `serve` to running a local server
-- run http://localhost:3000 on your favorite browser [:1:]
+- run http://localhost:3000 on your favorite browser 
