@@ -5,7 +5,15 @@
 3. The game will then `clear` the highlighted cells and `challenge` the user to `recall` their positions from memory.
 
 # ![](images/memorize.png)
-### Memorize State...
+#### Memorize State...
 
 # ![](images/recall.png)
-### Recall State...
+#### Recall State...
+
+## Runnig this project
+
+- npm install serve -g 
+- npm install to add node_modules
+
+- Simply lauching with `serve` to running a local server
+- run http://localhost:3000 on your favorite browser [:1:]
